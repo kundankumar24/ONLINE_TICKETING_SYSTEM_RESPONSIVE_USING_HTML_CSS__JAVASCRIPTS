@@ -66,6 +66,3 @@ Customization
 -   **Map:** To change the location on the contact page map, update the `src` attribute of the `iframe` in `contact.html` with your own Google Maps embed URL, as indicated by the comment in the file.
 -   **Booking Form:** The dropdown locations in the booking form can be updated by editing the `<option>` tags within the `<select>` elements in `index.html`.
 
-## Credits
-
-This template is based on the "Flight" template from [tooplate.com](http://www.tooplate.com/view/2093-flight) and also credits [Code Projects](http://www.code-projects.org) in the footer.
