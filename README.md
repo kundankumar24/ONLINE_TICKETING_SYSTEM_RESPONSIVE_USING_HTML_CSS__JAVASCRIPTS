@@ -35,21 +35,6 @@ This repository contains a responsive front-end template for a "Flight Tour and 
     -   [Bootstrap Datepicker](https://github.com/uxsolutions/bootstrap-datepicker) for calendar inputs.
     -   Mixitup for filtering.
 
-## Getting Started
-
-This is a static website template. No special installation or build process is required.
-
-1.  **Clone the repository:**
-    ```sh
-    git clone https://github.com/kundankumar24/ONLINE_TICKETING_SYSTEM_RESPONSIVE_USING_HTML_CSS__JAVASCRIPTS.git
-    ```
-2.  **Navigate to the project directory:**
-    ```sh
-    cd ONLINE_TICKETING_SYSTEM_RESPONSIVE_USING_HTML_CSS__JAVASCRIPTS/flight/
-    ```
-3.  **Open the website:**
-    Open the `index.html` file in your preferred web browser.
-
 ## File Structure
 
 The project files are organized as follows:
