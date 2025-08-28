@@ -1,5 +1,3 @@
-# ONLINE_TICKETING_SYSTEM_RESPONSIVE_USING_HTML_CSS__JAVASCRIPTS
-
 # Flight - Online Tour & Travel Ticketing System
 
 This repository contains a responsive front-end template for a "Flight Tour and Travel" website. It is built using HTML, CSS, and JavaScript, and provides a modern, feature-rich user interface for an online ticketing system or travel agency portal. The template is designed to be visually appealing and easy for users to navigate, featuring sections for booking tickets, checking weather, exploring destinations, and finding recommended hotels.
